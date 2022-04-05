@@ -12,4 +12,5 @@ It also provides identity solution for the emails, passwords and other important
 
 ## App Preview
 
-![Uploading auth.gif…]()
+
+![auth](https://user-images.githubusercontent.com/56762506/161726337-bfb0a6dc-52ab-43d4-a265-cf3495beb592.gif)
