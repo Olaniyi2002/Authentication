@@ -1,6 +1,6 @@
 # Authentication using Firebase
 
-This app uses firebase as the back end for authentication using email and password.
+This app uses firebase as the back-end for using email and password authentication.
 
 ## Firebase Authentication
 
